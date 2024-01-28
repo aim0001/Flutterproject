@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246344382119",
+    "project_id": "convimgtxt",
+    "storage_bucket": "convimgtxt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246344382119:android:9b50472785fb3cc5d44d82",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_capture_texte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv3g_MTR7JeyQ2TRbWmk_qzT5BUKJaOwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
